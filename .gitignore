@@ -1,3 +1,7 @@
+# ignore text file and target
+*.text
+/target
+
 # Compiled class file
 *.class
 
